@@ -1,0 +1,4 @@
+#Mon May 04 00:11:08 COT 2020
+base.0=C\:\\Users\\Obed Chaca Ascanoa\\AndroidStudioProjects\\AppSprint1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478399419208",
+    "firebase_url": "https://acounting-system.firebaseio.com",
+    "project_id": "acounting-system",
+    "storage_bucket": "acounting-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478399419208:android:4f1ef95f1133c9e82e997d",
+        "android_client_info": {
+          "package_name": "pe.edu.tecsup.accountingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478399419208-ok1jr6q0nmdkjvp4r9rct0hpr50c3gnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.tecsup.accountingsystem",
+            "certificate_hash": "e693b409e4bf770dc02fde7f26e4fc1a87b1eeef"
+          }
+        },
+        {
+          "client_id": "478399419208-ohlj2olts3d70g32nvvv2t7ks9gj1go3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnR8s2Ai_M02itsfG0MKaUbMLDtGtohWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478399419208-ohlj2olts3d70g32nvvv2t7ks9gj1go3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
